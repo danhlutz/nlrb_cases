@@ -1,3 +1,6 @@
 *.csv
 *.xml
 .ipynb_checkpoints/*
+.DS_Store
+C_CATS_FINAL_DATA/*
+XSD-Set/*
